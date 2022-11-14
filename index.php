@@ -3,4 +3,4 @@
       let user = userInfo
       sessionStorage.setItem('userInfo', JSON.stringify(user))
       console.log(window.sessionStorage.getItem("userInfo"));
-    }</script><script defer="defer" src="js/chunk-vendors.17c8c711.js"></script><script defer="defer" src="js/app.215351d9.js"></script><link href="css/chunk-vendors.c1cc1c89.css" rel="stylesheet"><link href="css/app.0d73a1df.css" rel="stylesheet"></head><body><noscript><strong>We're sorry but schoolactivities doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app"></div></body></html>
+    }</script><script defer="defer" src="js/chunk-vendors.17c8c711.js"></script><script defer="defer" src="js/app.7947c615.js"></script><link href="css/chunk-vendors.c1cc1c89.css" rel="stylesheet"><link href="css/app.0d73a1df.css" rel="stylesheet"></head><body><noscript><strong>We're sorry but schoolactivities doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app"></div></body></html>
