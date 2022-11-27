@@ -3,4 +3,4 @@
       console.log('qss');
       sessionStorage.setItem('userInfo', JSON.stringify(userInfo))
       console.log(window.sessionStorage.getItem("userInfo"));
-    }</script><script defer="defer" src="js/chunk-vendors.df45d7b6.js"></script><script defer="defer" src="js/app.b89b304e.js"></script><link href="css/chunk-vendors.414ccacb.css" rel="stylesheet"><link href="css/app.7204b2b0.css" rel="stylesheet"></head><body><noscript><strong>We're sorry but schoolactivities doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app"></div></body></html>
+    }</script><script defer="defer" src="js/chunk-vendors.df45d7b6.js"></script><script defer="defer" src="js/app.8658034e.js"></script><link href="css/chunk-vendors.414ccacb.css" rel="stylesheet"><link href="css/app.7204b2b0.css" rel="stylesheet"></head><body><noscript><strong>We're sorry but schoolactivities doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app"></div></body></html>
